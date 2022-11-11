@@ -8,7 +8,6 @@
 </head>
 <body>
     
-
 <table border="1">
         <?php
 
